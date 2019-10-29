@@ -10,7 +10,7 @@
 #include <QNetworkReply>
 #include <QUrl>
 
-const static QString GEEMCOIN_UPDATE_URL = "https://raw.githubusercontent.com/geemcoin/geemwallet/master/update.txt";
+const static QString GEEMCOIN_UPDATE_URL = "";
 
 class Updater : public QObject
 {
